@@ -1,0 +1,17 @@
+.img-fluid{
+    height: 22rem;
+    width: 100%;
+    border-radius: 18px;
+}
+.fip-logo{
+    color: #000;
+}
+.navbar{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+footer{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+}
